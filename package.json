@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3"
+  },
+  "dependencies": {
+    "fibers": "^5.0.1",
+    "microcms-js-sdk": "^2.0.0",
+    "sass": "^1.52.0",
+    "sass-loader": "^13.0.0"
+  }
+}
