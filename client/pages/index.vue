@@ -8,7 +8,7 @@ const { data } = await useFetch("/blog", {
 </script>
 
 <template>
-  <div>
+  <div class="wrap">
     <h1>Hello, Nuxt3!</h1>
     <ul>
       <li v-for="article in data.contents" :key="article.id">

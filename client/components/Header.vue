@@ -17,7 +17,6 @@
   background-color: #5ba9f7;
   display: flex;
   align-items: center;
-  z-index: 10;
 }
 
 .wrapper {
