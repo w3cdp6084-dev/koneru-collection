@@ -1,6 +1,6 @@
 <template>
     <footer class="footer">
-        <div class="wrapper">
+        <div class="wrap">
             <p class="text"><small>© 2022 qlitre</small></p>
         </div>
     </footer>
@@ -11,10 +11,13 @@
     background-color: #5ba9f7;
     text-align: center;
     padding: 26px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
-.wrapper {
-    max-width: 1100px;
+.wrap {
+    max-width: 1280px;
     margin: 0 auto;
     padding: 0 4%;
 }
