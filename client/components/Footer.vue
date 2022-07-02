@@ -6,7 +6,7 @@
     </footer>
 </template>
 
-<style scoped>
+<style scoped>  
 .footer {
     background-color: #5ba9f7;
     text-align: center;
